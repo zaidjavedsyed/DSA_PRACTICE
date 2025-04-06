@@ -15,10 +15,12 @@ DSA repository
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
