@@ -32,4 +32,16 @@ DSA repository
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
