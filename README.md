@@ -11,6 +11,7 @@ DSA repository
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0029-divide-two-integers) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
 | ------- |
