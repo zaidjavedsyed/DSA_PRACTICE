@@ -45,6 +45,7 @@ DSA repository
 | [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
 | [2117-find-original-array-from-doubled-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2117-find-original-array-from-doubled-array) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
+| [2169-simple-bank-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2169-simple-bank-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ DSA repository
 | [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
 | [2117-find-original-array-from-doubled-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2117-find-original-array-from-doubled-array) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
+| [2169-simple-bank-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2169-simple-bank-system) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ DSA repository
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
 | [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2169-simple-bank-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,4 +207,8 @@ DSA repository
 |  |
 | ------- |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
