@@ -44,6 +44,7 @@ DSA repository
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
 | [2117-find-original-array-from-doubled-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2117-find-original-array-from-doubled-array) |
+| [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ DSA repository
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
 | [2117-find-original-array-from-doubled-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2117-find-original-array-from-doubled-array) |
+| [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +88,7 @@ DSA repository
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 ## String
 |  |
 | ------- |
@@ -113,6 +116,7 @@ DSA repository
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0204-count-primes) |
+| [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -196,4 +200,8 @@ DSA repository
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Prefix Sum
+|  |
+| ------- |
+| [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 <!---LeetCode Topics End-->
