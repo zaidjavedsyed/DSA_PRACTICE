@@ -38,6 +38,7 @@ DSA repository
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1344-maximum-equal-frequency](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1344-maximum-equal-frequency) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ DSA repository
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1344-maximum-equal-frequency](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1344-maximum-equal-frequency) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
