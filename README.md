@@ -37,6 +37,7 @@ DSA repository
 | [1106-escape-a-large-maze](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1106-escape-a-large-maze) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ DSA repository
 | [1106-escape-a-large-maze](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1106-escape-a-large-maze) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -68,6 +70,7 @@ DSA repository
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
