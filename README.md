@@ -34,6 +34,7 @@ DSA repository
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 | [1043-grid-illumination](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1043-grid-illumination) |
+| [1106-escape-a-large-maze](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1106-escape-a-large-maze) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ DSA repository
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 | [1043-grid-illumination](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1043-grid-illumination) |
+| [1106-escape-a-large-maze](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1106-escape-a-large-maze) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -97,6 +99,7 @@ DSA repository
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
+| [1106-escape-a-large-maze](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1106-escape-a-large-maze) |
 ## Trie
 |  |
 | ------- |
@@ -125,6 +128,7 @@ DSA repository
 |  |
 | ------- |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
+| [1106-escape-a-large-maze](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1106-escape-a-large-maze) |
 ## Design
 |  |
 | ------- |
