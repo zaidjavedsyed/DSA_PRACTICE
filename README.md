@@ -17,6 +17,7 @@ DSA repository
 | [0078-subsets](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0136-single-number) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
+| [1668-find-longest-awesome-substring](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1668-find-longest-awesome-substring) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
@@ -61,6 +62,7 @@ DSA repository
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1668-find-longest-awesome-substring](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1668-find-longest-awesome-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ DSA repository
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1668-find-longest-awesome-substring](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1668-find-longest-awesome-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
