@@ -9,12 +9,14 @@ DSA repository
 | [0029-divide-two-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0447-number-of-boomerangs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0447-number-of-boomerangs) |
+| [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0136-single-number) |
+| [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
@@ -30,6 +32,7 @@ DSA repository
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
+| [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -41,6 +44,7 @@ DSA repository
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
+| [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -66,11 +70,13 @@ DSA repository
 | [0022-generate-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
+| [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0078-subsets) |
+| [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -125,4 +131,8 @@ DSA repository
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
+## Bitmask
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
