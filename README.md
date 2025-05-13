@@ -42,6 +42,7 @@ DSA repository
 | [1344-maximum-equal-frequency](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1344-maximum-equal-frequency) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ DSA repository
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1668-find-longest-awesome-substring](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1668-find-longest-awesome-substring) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +149,7 @@ DSA repository
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
+| [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -156,6 +159,7 @@ DSA repository
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
+| [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,6 +179,7 @@ DSA repository
 |  |
 | ------- |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
+| [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
 ## Graph
 |  |
 | ------- |
