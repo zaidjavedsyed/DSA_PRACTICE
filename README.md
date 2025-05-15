@@ -9,6 +9,7 @@ DSA repository
 | [0029-divide-two-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0447-number-of-boomerangs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0447-number-of-boomerangs) |
+| [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 | [1223-graph-connectivity-with-threshold](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1223-graph-connectivity-with-threshold) |
 | [1372-check-if-it-is-a-good-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1372-check-if-it-is-a-good-array) |
@@ -33,6 +34,7 @@ DSA repository
 | [0447-number-of-boomerangs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
+| [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
@@ -112,6 +114,7 @@ DSA repository
 | [0022-generate-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
+| [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -228,4 +231,8 @@ DSA repository
 |  |
 | ------- |
 | [1223-graph-connectivity-with-threshold](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1223-graph-connectivity-with-threshold) |
+## Combinatorics
+|  |
+| ------- |
+| [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
 <!---LeetCode Topics End-->
