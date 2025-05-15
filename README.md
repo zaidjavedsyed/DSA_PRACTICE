@@ -10,6 +10,7 @@ DSA repository
 | [0204-count-primes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0447-number-of-boomerangs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0447-number-of-boomerangs) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
+| [1223-graph-connectivity-with-threshold](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1223-graph-connectivity-with-threshold) |
 | [1372-check-if-it-is-a-good-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1372-check-if-it-is-a-good-array) |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
 ## Bit Manipulation
@@ -40,6 +41,7 @@ DSA repository
 | [1106-escape-a-large-maze](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1106-escape-a-large-maze) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
+| [1223-graph-connectivity-with-threshold](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1223-graph-connectivity-with-threshold) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1344-maximum-equal-frequency](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1344-maximum-equal-frequency) |
 | [1372-check-if-it-is-a-good-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1372-check-if-it-is-a-good-array) |
@@ -128,6 +130,7 @@ DSA repository
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0204-count-primes) |
+| [1223-graph-connectivity-with-threshold](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1223-graph-connectivity-with-threshold) |
 | [1372-check-if-it-is-a-good-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1372-check-if-it-is-a-good-array) |
 ## Binary Search
 |  |
@@ -221,4 +224,8 @@ DSA repository
 |  |
 | ------- |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
+## Union Find
+|  |
+| ------- |
+| [1223-graph-connectivity-with-threshold](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1223-graph-connectivity-with-threshold) |
 <!---LeetCode Topics End-->
