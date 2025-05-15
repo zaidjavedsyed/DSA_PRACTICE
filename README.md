@@ -14,6 +14,7 @@ DSA repository
 | [1223-graph-connectivity-with-threshold](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1223-graph-connectivity-with-threshold) |
 | [1372-check-if-it-is-a-good-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1372-check-if-it-is-a-good-array) |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
+| [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1808-stone-game-vii) |
 ## Bit Manipulation
@@ -52,6 +53,7 @@ DSA repository
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
+| [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1808-stone-game-vii) |
 | [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
@@ -122,6 +124,7 @@ DSA repository
 | [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
+| [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1808-stone-game-vii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1808-stone-game-vii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Backtracking
@@ -214,14 +217,17 @@ DSA repository
 ## Graph
 |  |
 | ------- |
+| [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Topological Sort
 |  |
 | ------- |
+| [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Memoization
 |  |
 | ------- |
+| [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Prefix Sum
 |  |
@@ -235,6 +241,7 @@ DSA repository
 |  |
 | ------- |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
+| [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1808-stone-game-vii) |
 ## Union Find
@@ -245,4 +252,8 @@ DSA repository
 |  |
 | ------- |
 | [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
+## Matrix
+|  |
+| ------- |
+| [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 <!---LeetCode Topics End-->
