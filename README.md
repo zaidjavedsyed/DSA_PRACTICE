@@ -25,6 +25,7 @@ DSA repository
 | [0078-subsets](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0136-single-number) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
+| [1471-maximum-students-taking-exam](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1471-maximum-students-taking-exam) |
 | [1668-find-longest-awesome-substring](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1668-find-longest-awesome-substring) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Array
@@ -55,6 +56,7 @@ DSA repository
 | [1372-check-if-it-is-a-good-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1372-check-if-it-is-a-good-array) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1466-jump-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1466-jump-game-v) |
+| [1471-maximum-students-taking-exam](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1471-maximum-students-taking-exam) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
@@ -137,6 +139,7 @@ DSA repository
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-jump-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1466-jump-game-v) |
+| [1471-maximum-students-taking-exam](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1471-maximum-students-taking-exam) |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1808-stone-game-vii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1808-stone-game-vii) |
@@ -216,6 +219,7 @@ DSA repository
 |  |
 | ------- |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
+| [1471-maximum-students-taking-exam](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1471-maximum-students-taking-exam) |
 ## Greedy
 |  |
 | ------- |
@@ -274,6 +278,7 @@ DSA repository
 ## Matrix
 |  |
 | ------- |
+| [1471-maximum-students-taking-exam](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1471-maximum-students-taking-exam) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 ## Two Pointers
 |  |
