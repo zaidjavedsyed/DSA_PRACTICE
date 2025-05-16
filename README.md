@@ -89,6 +89,7 @@ DSA repository
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1668-find-longest-awesome-substring](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1668-find-longest-awesome-substring) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
 | [2117-find-original-array-from-doubled-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2117-find-original-array-from-doubled-array) |
@@ -127,6 +128,7 @@ DSA repository
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1668-find-longest-awesome-substring](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1668-find-longest-awesome-substring) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1743-count-substrings-that-differ-by-one-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +148,7 @@ DSA repository
 | [1559-cherry-pickup-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1559-cherry-pickup-ii) |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1808-stone-game-vii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1808-stone-game-vii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Backtracking
@@ -158,6 +161,7 @@ DSA repository
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0204-count-primes) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 ## Number Theory
 |  |
