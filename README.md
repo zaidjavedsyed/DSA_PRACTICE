@@ -133,6 +133,7 @@ DSA repository
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1290-make-array-strictly-increasing](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1290-make-array-strictly-increasing) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1808-stone-game-vii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1808-stone-game-vii) |
@@ -230,6 +231,7 @@ DSA repository
 ## Graph
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Topological Sort
@@ -282,4 +284,8 @@ DSA repository
 |  |
 | ------- |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1251-longest-chunked-palindrome-decomposition) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
