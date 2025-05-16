@@ -49,6 +49,7 @@ DSA repository
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
 | [1223-graph-connectivity-with-threshold](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1223-graph-connectivity-with-threshold) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1290-make-array-strictly-increasing](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1290-make-array-strictly-increasing) |
 | [1326-sum-of-floored-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1326-sum-of-floored-pairs) |
 | [1344-maximum-equal-frequency](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1344-maximum-equal-frequency) |
 | [1372-check-if-it-is-a-good-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1372-check-if-it-is-a-good-array) |
@@ -94,6 +95,7 @@ DSA repository
 | [0217-contains-duplicate](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
+| [1290-make-array-strictly-increasing](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1290-make-array-strictly-increasing) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
 | [2117-find-original-array-from-doubled-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2117-find-original-array-from-doubled-array) |
@@ -128,6 +130,7 @@ DSA repository
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1290-make-array-strictly-increasing](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1290-make-array-strictly-increasing) |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1808-stone-game-vii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1808-stone-game-vii) |
@@ -155,6 +158,7 @@ DSA repository
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
+| [1290-make-array-strictly-increasing](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1290-make-array-strictly-increasing) |
 | [1326-sum-of-floored-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1326-sum-of-floored-pairs) |
 ## Depth-First Search
 |  |
