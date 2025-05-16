@@ -58,6 +58,7 @@ DSA repository
 | [1466-jump-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1466-jump-game-v) |
 | [1471-maximum-students-taking-exam](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1471-maximum-students-taking-exam) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1511-count-number-of-teams](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1511-count-number-of-teams) |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
@@ -140,6 +141,7 @@ DSA repository
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-jump-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1466-jump-game-v) |
 | [1471-maximum-students-taking-exam](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1471-maximum-students-taking-exam) |
+| [1511-count-number-of-teams](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1511-count-number-of-teams) |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1808-stone-game-vii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1808-stone-game-vii) |
@@ -186,10 +188,12 @@ DSA repository
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
+| [1511-count-number-of-teams](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1511-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
+| [1511-count-number-of-teams](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1511-count-number-of-teams) |
 ## Merge Sort
 |  |
 | ------- |
