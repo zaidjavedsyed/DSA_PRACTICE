@@ -218,6 +218,7 @@ DSA repository
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
@@ -314,6 +315,7 @@ DSA repository
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
