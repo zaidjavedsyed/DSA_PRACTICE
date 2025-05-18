@@ -41,6 +41,7 @@ DSA repository
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
 | [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
@@ -75,6 +76,7 @@ DSA repository
 | [0299-bulls-and-cows](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0299-bulls-and-cows) |
 | [0447-number-of-boomerangs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
@@ -318,9 +320,14 @@ DSA repository
 | [0155-min-stack](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
