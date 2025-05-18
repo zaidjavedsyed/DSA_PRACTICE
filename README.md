@@ -42,6 +42,7 @@ DSA repository
 | [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
@@ -321,6 +322,7 @@ DSA repository
 | [0225-implement-stack-using-queues](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 ## Queue
 |  |
 | ------- |
@@ -330,4 +332,5 @@ DSA repository
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
