@@ -129,6 +129,7 @@ DSA repository
 | [0020-valid-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0299-bulls-and-cows](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0299-bulls-and-cows) |
+| [0402-remove-k-digits](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1251-longest-chunked-palindrome-decomposition) |
@@ -244,6 +245,7 @@ DSA repository
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1251-longest-chunked-palindrome-decomposition) |
@@ -326,6 +328,7 @@ DSA repository
 | [0155-min-stack](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
@@ -339,6 +342,7 @@ DSA repository
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
