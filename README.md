@@ -79,6 +79,7 @@ DSA repository
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0299-bulls-and-cows) |
 | [0447-number-of-boomerangs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0447-number-of-boomerangs) |
@@ -130,6 +131,7 @@ DSA repository
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0299-bulls-and-cows](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0299-bulls-and-cows) |
@@ -240,6 +242,7 @@ DSA repository
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
