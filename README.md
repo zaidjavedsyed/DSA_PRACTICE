@@ -45,6 +45,7 @@ DSA repository
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
 | [0943-sum-of-subarray-minimums](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
@@ -240,6 +241,7 @@ DSA repository
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Bitmask
