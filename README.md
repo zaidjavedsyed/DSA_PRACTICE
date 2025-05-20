@@ -52,6 +52,7 @@ DSA repository
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 | [1043-grid-illumination](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1043-grid-illumination) |
+| [1046-max-consecutive-ones-iii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1046-max-consecutive-ones-iii) |
 | [1106-escape-a-large-maze](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1106-escape-a-large-maze) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
@@ -190,6 +191,7 @@ DSA repository
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
+| [1046-max-consecutive-ones-iii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1046-max-consecutive-ones-iii) |
 | [1290-make-array-strictly-increasing](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1290-make-array-strictly-increasing) |
 | [1326-sum-of-floored-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1326-sum-of-floored-pairs) |
 ## Depth-First Search
@@ -246,6 +248,7 @@ DSA repository
 | [0239-sliding-window-maximum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
+| [1046-max-consecutive-ones-iii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Bitmask
 |  |
@@ -288,6 +291,7 @@ DSA repository
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1046-max-consecutive-ones-iii) |
 | [1326-sum-of-floored-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1326-sum-of-floored-pairs) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 ## Simulation
