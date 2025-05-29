@@ -47,6 +47,7 @@ DSA repository
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
@@ -93,6 +94,7 @@ DSA repository
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
 | [0966-binary-subarrays-with-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
@@ -120,6 +122,7 @@ DSA repository
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
+| [0621-task-scheduler](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
 | [1290-make-array-strictly-increasing](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1290-make-array-strictly-increasing) |
@@ -131,6 +134,7 @@ DSA repository
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0299-bulls-and-cows) |
+| [0621-task-scheduler](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
@@ -274,6 +278,7 @@ DSA repository
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1251-longest-chunked-palindrome-decomposition) |
@@ -285,6 +290,7 @@ DSA repository
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
 | [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
