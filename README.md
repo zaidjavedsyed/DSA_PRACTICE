@@ -36,6 +36,7 @@ DSA repository
 | [0084-largest-rectangle-in-histogram](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
@@ -117,6 +118,7 @@ DSA repository
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
@@ -214,6 +216,7 @@ DSA repository
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -280,6 +283,7 @@ DSA repository
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
@@ -392,4 +396,8 @@ DSA repository
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
