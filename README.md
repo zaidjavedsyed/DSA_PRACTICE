@@ -89,6 +89,7 @@ DSA repository
 | [0003-longest-substring-without-repeating-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0299-bulls-and-cows) |
+| [0355-design-twitter](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0447-number-of-boomerangs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -252,6 +253,7 @@ DSA repository
 | [0155-min-stack](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0460-lfu-cache) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
 | [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
@@ -290,6 +292,7 @@ DSA repository
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
@@ -393,6 +396,7 @@ DSA repository
 ## Linked List
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
