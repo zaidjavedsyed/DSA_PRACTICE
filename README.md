@@ -32,6 +32,7 @@ DSA repository
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0136-single-number) |
@@ -171,6 +172,7 @@ DSA repository
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
 | [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
@@ -290,6 +292,7 @@ DSA repository
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0621-task-scheduler) |
