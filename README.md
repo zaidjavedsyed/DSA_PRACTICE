@@ -53,6 +53,7 @@ DSA repository
 | [0643-maximum-average-subarray-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
+| [0890-lemonade-change](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
@@ -290,6 +291,7 @@ DSA repository
 | [0402-remove-k-digits](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0621-task-scheduler) |
+| [0890-lemonade-change](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0890-lemonade-change) |
 | [1140-distant-barcodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1140-distant-barcodes) |
 | [1169-largest-values-from-labels](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1169-largest-values-from-labels) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1251-longest-chunked-palindrome-decomposition) |
