@@ -6,6 +6,9 @@ class Solution {
                 return false;
             }
             furthest=Math.max(furthest,i+nums[i]);
+            if(furthest == nums.length-1){
+                return true;
+            }
        }
        return true;
     }
