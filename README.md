@@ -33,6 +33,7 @@ DSA repository
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
@@ -127,6 +128,7 @@ DSA repository
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
