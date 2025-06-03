@@ -229,6 +229,7 @@ DSA repository
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
 | [1106-escape-a-large-maze](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1106-escape-a-large-maze) |
@@ -397,6 +398,7 @@ DSA repository
 | ------- |
 | [0020-valid-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0225-implement-stack-using-queues) |
@@ -444,6 +446,7 @@ DSA repository
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -453,6 +456,7 @@ DSA repository
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
