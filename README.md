@@ -266,6 +266,7 @@ DSA repository
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
 | [1106-escape-a-large-maze](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1106-escape-a-large-maze) |
 ## Design
@@ -449,6 +450,7 @@ DSA repository
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -460,6 +462,7 @@ DSA repository
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
