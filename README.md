@@ -235,6 +235,7 @@ DSA repository
 | [0144-binary-tree-preorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
+| [0543-diameter-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [1106-escape-a-large-maze](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1106-escape-a-large-maze) |
 ## Trie
 |  |
@@ -458,6 +459,7 @@ DSA repository
 | [0110-balanced-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -472,6 +474,7 @@ DSA repository
 | [0110-balanced-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
