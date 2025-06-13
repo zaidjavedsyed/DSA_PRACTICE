@@ -105,6 +105,7 @@ DSA repository
 | [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
@@ -240,6 +241,7 @@ DSA repository
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1106-escape-a-large-maze](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1106-escape-a-large-maze) |
 ## Trie
 |  |
@@ -280,6 +282,7 @@ DSA repository
 | [0104-maximum-depth-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1106-escape-a-large-maze](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1106-escape-a-large-maze) |
 ## Design
 |  |
@@ -474,6 +477,7 @@ DSA repository
 | [0543-diameter-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -494,6 +498,7 @@ DSA repository
 | [0543-diameter-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
