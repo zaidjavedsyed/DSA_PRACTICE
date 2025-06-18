@@ -492,12 +492,14 @@ DSA repository
 | [0543-diameter-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -519,6 +521,7 @@ DSA repository
 | [0543-diameter-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Data Stream
