@@ -253,6 +253,7 @@ DSA repository
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -296,6 +297,7 @@ DSA repository
 | [0102-binary-tree-level-order-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
@@ -363,6 +365,7 @@ DSA repository
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -400,6 +403,7 @@ DSA repository
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
 | [1223-graph-connectivity-with-threshold](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1223-graph-connectivity-with-threshold) |
 ## Combinatorics
 |  |
