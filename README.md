@@ -26,6 +26,7 @@ DSA repository
 | [0078-subsets](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 | [1471-maximum-students-taking-exam](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1471-maximum-students-taking-exam) |
 | [1668-find-longest-awesome-substring](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1668-find-longest-awesome-substring) |
@@ -45,6 +46,7 @@ DSA repository
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
@@ -229,6 +231,7 @@ DSA repository
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
@@ -418,6 +421,7 @@ DSA repository
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1251-longest-chunked-palindrome-decomposition) |
