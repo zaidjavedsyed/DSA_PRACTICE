@@ -37,6 +37,7 @@ DSA repository
 | [0055-jump-game](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -140,6 +141,7 @@ DSA repository
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
@@ -421,6 +423,7 @@ DSA repository
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
