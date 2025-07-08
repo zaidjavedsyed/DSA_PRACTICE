@@ -92,6 +92,7 @@ DSA repository
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1808-stone-game-vii) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
 | [2117-find-original-array-from-doubled-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2117-find-original-array-from-doubled-array) |
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
@@ -154,6 +155,7 @@ DSA repository
 | [1466-jump-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1466-jump-game-v) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2117-find-original-array-from-doubled-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2117-find-original-array-from-doubled-array) |
 ## Counting Sort
 |  |
@@ -210,6 +212,7 @@ DSA repository
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1808-stone-game-vii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1808-stone-game-vii) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Backtracking
 |  |
@@ -240,6 +243,7 @@ DSA repository
 | [1046-max-consecutive-ones-iii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1046-max-consecutive-ones-iii) |
 | [1290-make-array-strictly-increasing](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1290-make-array-strictly-increasing) |
 | [1326-sum-of-floored-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1326-sum-of-floored-pairs) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Depth-First Search
 |  |
 | ------- |
