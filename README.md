@@ -99,6 +99,7 @@ DSA repository
 | [2135-maximum-number-of-ways-to-partition-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2135-maximum-number-of-ways-to-partition-an-array) |
 | [2169-simple-bank-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2169-simple-bank-system) |
 | [2227-sum-of-subarray-ranges](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2227-sum-of-subarray-ranges) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -339,6 +340,7 @@ DSA repository
 | [1370-count-number-of-nice-subarrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -360,6 +362,7 @@ DSA repository
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
 | [2117-find-original-array-from-doubled-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2117-find-original-array-from-doubled-array) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
