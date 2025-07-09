@@ -178,6 +178,7 @@ DSA repository
 | [0003-longest-substring-without-repeating-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0299-bulls-and-cows) |
 | [0402-remove-k-digits](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
@@ -431,6 +432,7 @@ DSA repository
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0455-assign-cookies) |
@@ -592,4 +594,8 @@ DSA repository
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0173-binary-search-tree-iterator) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
