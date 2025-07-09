@@ -325,6 +325,7 @@ DSA repository
 | [0355-design-twitter](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0838-design-linked-list](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
 | [2023-design-movie-rental-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2169-simple-bank-system) |
@@ -493,6 +494,7 @@ DSA repository
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0355-design-twitter](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0460-lfu-cache) |
+| [0838-design-linked-list](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0838-design-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
