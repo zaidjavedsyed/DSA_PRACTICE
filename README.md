@@ -61,6 +61,7 @@ DSA repository
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
@@ -117,6 +118,7 @@ DSA repository
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
@@ -404,6 +406,7 @@ DSA repository
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1046-max-consecutive-ones-iii) |
