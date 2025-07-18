@@ -194,6 +194,7 @@ DSA repository
 | [0424-longest-repeating-character-replacement](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
 | [0678-valid-parenthesis-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -619,4 +620,5 @@ DSA repository
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
