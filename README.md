@@ -20,6 +20,7 @@ DSA repository
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1808-stone-game-vii) |
+| [2032-largest-odd-number-in-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,6 +200,7 @@ DSA repository
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1668-find-longest-awesome-substring](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1668-find-longest-awesome-substring) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [2032-largest-odd-number-in-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -376,6 +378,7 @@ DSA repository
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
+| [2032-largest-odd-number-in-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2032-largest-odd-number-in-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/2117-find-original-array-from-doubled-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
