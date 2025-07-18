@@ -35,6 +35,7 @@ DSA repository
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0057-insert-interval) |
@@ -181,6 +182,7 @@ DSA repository
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -281,6 +283,7 @@ DSA repository
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
 ## Divide and Conquer
 |  |
