@@ -7,6 +7,7 @@ DSA repository
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0263-ugly-number) |
 | [0447-number-of-boomerangs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0447-number-of-boomerangs) |
@@ -211,6 +212,7 @@ DSA repository
 | ------- |
 | [0022-generate-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
@@ -447,6 +449,7 @@ DSA repository
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
 ## Matrix
 |  |
