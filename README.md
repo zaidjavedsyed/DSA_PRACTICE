@@ -42,6 +42,7 @@ DSA repository
 | [0056-merge-intervals](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
@@ -215,6 +216,7 @@ DSA repository
 | [0055-jump-game](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
@@ -457,6 +459,7 @@ DSA repository
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [1471-maximum-students-taking-exam](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1471-maximum-students-taking-exam) |
 | [1559-cherry-pickup-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1559-cherry-pickup-ii) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
