@@ -75,6 +75,7 @@ DSA repository
 | [0890-lemonade-change](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0967-minimum-falling-path-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
@@ -227,6 +228,7 @@ DSA repository
 | [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
 | [0678-valid-parenthesis-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0967-minimum-falling-path-sum) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1263-number-of-dice-rolls-with-target-sum) |
@@ -462,6 +464,7 @@ DSA repository
 | ------- |
 | [0063-unique-paths-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0967-minimum-falling-path-sum) |
 | [1471-maximum-students-taking-exam](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1471-maximum-students-taking-exam) |
 | [1559-cherry-pickup-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1559-cherry-pickup-ii) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
