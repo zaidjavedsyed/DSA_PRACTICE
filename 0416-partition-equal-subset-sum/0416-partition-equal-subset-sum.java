@@ -34,9 +34,9 @@ class Solution {
         if(sum%2!=0){
             return false;
         }
-        int[][] dp = new int[nums.length][sum];
+        int[][] dp = new int[nums.length][sum/2+1];
         for(int i=0;i<nums.length;i++){
-            for(int j=0;j<sum;j++){
+            for(int j=0;j<sum/2+1;j++){
                 dp[i][j] = -1;
             }
         }
