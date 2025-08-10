@@ -58,6 +58,7 @@ DSA repository
 | [0287-find-the-duplicate-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0447-number-of-boomerangs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -223,6 +224,7 @@ DSA repository
 | [0120-triangle](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
 | [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
