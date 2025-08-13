@@ -1,4 +1,29 @@
 class Solution {
+      static Boolean isSubsetSum(int arr[], int sum) {
+        // code here
+        int n = arr.length;
+        boolean[] prev = new boolean[sum+1];
+        prev[0] = true;
+        if(arr[0]<=sum){
+        prev[arr[0]] = true;
+}        for(int i=1;i<n;i++){
+           boolean[] curr = new boolean[sum + 1];
+            curr[0] = true;
+            for(int target = 1;target<=sum;target++){
+                
+                boolean take = false;
+                if(target>= arr[i]){
+                    take = prev[target-arr[i]];
+                }
+                boolean ntake = prev[target];
+                curr[target]= take || ntake;
+       
+                    }
+                    prev = curr;
+                }
+        return prev[sum];
+        
+    }
      static boolean subsetsum(int i,int target,int[] arr,int[][] dp){
         if(target==0){
             return true;
@@ -40,6 +65,6 @@ class Solution {
                 dp[i][j] = -1;
             }
         }
-        return subsetsum(nums.length-1,sum/2,nums,dp);
+        return isSubsetSum(nums,sum/2);
     }
 }
