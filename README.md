@@ -57,6 +57,7 @@ DSA repository
 | [0239-sliding-window-maximum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
@@ -224,6 +225,7 @@ DSA repository
 | [0120-triangle](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
@@ -340,6 +342,7 @@ DSA repository
 | [0102-binary-tree-level-order-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
