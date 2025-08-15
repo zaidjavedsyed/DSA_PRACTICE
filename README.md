@@ -67,6 +67,7 @@ DSA repository
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
 | [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
@@ -230,6 +231,7 @@ DSA repository
 | [0435-non-overlapping-intervals](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0472-concatenated-words) |
 | [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
+| [0494-target-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0967-minimum-falling-path-sum) |
@@ -254,6 +256,7 @@ DSA repository
 | ------- |
 | [0022-generate-parentheses](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0494-target-sum) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 ## Enumeration
 |  |
