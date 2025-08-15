@@ -15,9 +15,6 @@ class Solution {
         return takep+taken;
     }
     public int findTargetSumWays(int[] nums, int target) {
-        if(nums.length==1 && nums[0]==0){
-            return 2;
-        }
         return findno(nums.length-1,target,nums);
     }
 }
