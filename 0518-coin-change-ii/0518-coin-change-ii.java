@@ -1,31 +1,6 @@
 class Solution {
-    public int find(int ind,int target,int[] arr,int[][] dp){
-        if(target==0){
-            return 1;
-        }
-        if(ind==0){
-            if(arr[0]<=target){
-                if(target%arr[0]==0){
-                    return 1;
-                }else{
-                    return 0;
-                }
-            }else{
-                return 0;
-            }
-        }
-        if(dp[ind][target]!=-1){
-            return dp[ind][target];
-        }
-        int take =0;
-        if(target>=arr[ind]){
-            take = find(ind,target-arr[ind],arr,dp);
-        }
-        int ntake = find(ind-1,target,arr,dp);
-        dp[ind][target] = take+ntake;
-        return take+ntake;
-    }
     public int change(int amount, int[] coins) {
+      /* tabulation 
         int[][] dp = new int[coins.length][amount+1];
         for(int i=0;i<coins.length;i++){
             dp[i][0] = 1;
@@ -47,5 +22,27 @@ class Solution {
             }
         }
         return dp[coins.length-1][amount];
+    */
+    int[] curr = new int[amount+1];
+    int[] prev = new int[amount+1];
+        curr[0] = 1;
+        for(int t =0;t<=amount;t++){
+            if(t%coins[0] ==0){
+                prev[t] = 1;
+            }else{
+                prev[t] = 0;
+            }}
+        for(int ind=1;ind<coins.length;ind++){
+            for(int target = 1;target<=amount;target++){
+                int take =0;
+                if(target>=coins[ind]){
+                    take = curr[target-coins[ind]];
+                    }
+                int ntake = prev[target];
+                curr[target] = take+ntake;
+            }
+            prev = curr.clone();
+        }
+        return prev[amount];
     }
 }
