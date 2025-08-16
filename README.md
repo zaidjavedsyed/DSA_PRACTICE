@@ -209,6 +209,7 @@ DSA repository
 | [0678-valid-parenthesis-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
+| [1250-longest-common-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1250-longest-common-subsequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -238,6 +239,7 @@ DSA repository
 | [0943-sum-of-subarray-minimums](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0967-minimum-falling-path-sum) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
+| [1250-longest-common-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1250-longest-common-subsequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1290-make-array-strictly-increasing](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1290-make-array-strictly-increasing) |
