@@ -79,6 +79,7 @@ class Solution {
         return dp[coins.length-1][amount];
     }*/
     //2x 1d array approach
+    /*
     int curr[] = new int[amount+1];
     int prev[] = new int[amount+1];
     curr[0] = 0;
@@ -105,6 +106,38 @@ class Solution {
             curr[target] = Math.min(take,ntake);
             }
             prev = curr.clone();
+        }
+    if(prev[amount]==Integer.MAX_VALUE){
+        return -1;
+    }else{
+        return prev[amount];
+    }
+*/
+    //1d array approach
+    int prev[] = new int[amount+1];
+    prev[0] = 0;
+    for(int t=1;t<=amount;t++){
+        if(coins[0]<=t){
+            if(t%coins[0]==0){
+            prev[t] =t/coins[0];
+            }else{
+                prev[t] = Integer.MAX_VALUE;
+            }
+    }else{
+        prev[t] = Integer.MAX_VALUE;
+    }}
+    for(int ind=1 ;ind<coins.length;ind++){
+        for(int target = 1;target<=amount;target++){
+            int take = Integer.MAX_VALUE;
+            if(coins[ind]<=target){
+                take = prev[target-coins[ind]];
+         }
+            if(take!=Integer.MAX_VALUE){
+                take+=1;
+            }
+            int ntake = prev[target];
+            prev[target] = Math.min(take,ntake);
+            }
         }
     if(prev[amount]==Integer.MAX_VALUE){
         return -1;
