@@ -1,6 +1,19 @@
 class Solution {
     public int find(int i,int j,String text1,String text2,int[][] dp){
-        if(i<0 || j<0){
+        if(i==0){
+            for(int t=j;t>=0;t--){
+                if(text1.charAt(i)==text2.charAt(t)){
+                    return 1;
+                }
+            }
+            return 0;
+        }
+        if(j==0){
+            for(int t=i;t>=0;t--){
+                if(text1.charAt(t)==text2.charAt(j)){
+                    return 1;
+                }
+            }
             return 0;
         }
         if(dp[i][j]!=-1){
