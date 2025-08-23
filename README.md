@@ -9,6 +9,7 @@ DSA repository
 | [0029-divide-two-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0263-ugly-number) |
 | [0447-number-of-boomerangs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0447-number-of-boomerangs) |
 | [0489-kth-smallest-instructions](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0489-kth-smallest-instructions) |
@@ -29,6 +30,7 @@ DSA repository
 | [0078-subsets](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [1038-number-of-squareful-arrays](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1038-number-of-squareful-arrays) |
 | [1471-maximum-students-taking-exam](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1471-maximum-students-taking-exam) |
@@ -653,4 +655,8 @@ DSA repository
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0812-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
