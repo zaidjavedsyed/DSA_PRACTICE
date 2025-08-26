@@ -7,6 +7,7 @@ DSA repository
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0231-power-of-two) |
@@ -658,5 +659,6 @@ DSA repository
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
