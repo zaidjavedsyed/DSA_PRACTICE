@@ -80,6 +80,7 @@ DSA repository
 | [0735-asteroid-collision](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
 | [0833-bus-routes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0833-bus-routes) |
 | [0890-lemonade-change](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0967-minimum-falling-path-sum) |
@@ -284,6 +285,7 @@ DSA repository
 | [0287-find-the-duplicate-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0493-reverse-pairs) |
+| [0907-koko-eating-bananas](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1046-max-consecutive-ones-iii) |
 | [1290-make-array-strictly-increasing](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1290-make-array-strictly-increasing) |
