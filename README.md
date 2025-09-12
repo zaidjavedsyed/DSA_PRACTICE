@@ -107,6 +107,7 @@ DSA repository
 | [1511-count-number-of-teams](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1559-cherry-pickup-ii) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1685-stone-game-v](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1685-stone-game-v) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1788-stone-game-vi](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1788-stone-game-vi) |
@@ -290,6 +291,7 @@ DSA repository
 | [1046-max-consecutive-ones-iii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1046-max-consecutive-ones-iii) |
 | [1290-make-array-strictly-increasing](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1290-make-array-strictly-increasing) |
 | [1326-sum-of-floored-pairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1326-sum-of-floored-pairs) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Depth-First Search
 |  |
