@@ -1,28 +1,10 @@
 class Solution {
     public String largestOddNumber(String num) {
-      String ans= "";
-      for(int i=0;i<num.length();i++){
-        if((int)num.charAt(i)%2!=0){
-            ans = num.substring(0,i+1);
-        }
-      }
-      return ans;
-    }}
-                /*
-                w=w+n;
-                continue;
-            }
-            else{
-                w=w+n;
-                if(max<Integer.parseInt(w)){
-                    max=Integer.parseInt(w);
-                }
-                
+        for(int i=num.length()-1;i>=0;i--){
+            if((((int)num.charAt(i))%2)!=0){
+                return num.substring(0,i+1);
             }
         }
-        if(max==0){
-            return "";
-        }
-        return Integer.toString(max);
+        return "";
     }
-}*/
+}
