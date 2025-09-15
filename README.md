@@ -9,6 +9,7 @@ DSA repository
 | [0029-divide-two-integers](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0263-ugly-number) |
@@ -230,6 +231,7 @@ DSA repository
 | [0062-unique-paths](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -445,6 +447,7 @@ DSA repository
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0070-climbing-stairs) |
 | [1727-cat-and-mouse-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1727-cat-and-mouse-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Prefix Sum
