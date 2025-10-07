@@ -1,31 +1,77 @@
+/*Implement a last-in-first-out (LIFO) stack using only two queues.
+Queue q1= new LinkedList();
+Queue q2= new LinkedList();
+Implement the MyStack class:
+void push(int x) Pushes element x to the top of the stack.
+q1.add(x); add it in one of the queue
+int pop() Removes the element on the top of the stack and returns it.
+while(q1.size()!=1){
+    q2.add(q1.poll());
+}
+int a =q1.poll();
+int n = q2.size();
+while(q1.size()!=n){
+    q1.add(q2.poll())
+}
+return a;
+int top() Returns the element on the top of the stack.
+while(q1.size()!=1){
+    q2.add(q1.poll());
+}
+int a = q1.peek();
+int n = q2.size();
+while(q1.size()!=n){
+    q1.add(q2.poll())
+}
+return a;
+boolean empty() Returns true if the stack is empty, false otherwise.
+return q1.isEmpty();
+
+
+
+*/
 class MyStack {
-     Queue<Integer> q1 = new LinkedList<>();
+    Queue <Integer>q1;
+    Queue <Integer>q2;
+
     public MyStack() {
+        q1 = new LinkedList<>();
+        q2=  new LinkedList<>();
     }
     
     public void push(int x) {
         q1.add(x);
-        for(int i=1;i<q1.size();i++){
-            q1.add(q1.remove());
-        }
     }
     
     public int pop() {
-       
-        return q1.remove();
+        while(q1.size()!=1){
+            q2.add(q1.poll());
+        }
+        int a =q1.poll();
+        int n = q2.size();
+        while(q1.size()!=n){
+            q1.add(q2.poll());
+        }
+        return a;
+        
     }
     
     public int top() {
-        return q1.peek();
+        while(q1.size()!=1){
+            q2.add(q1.poll());
+        }
+        int a =q1.poll();
+        int n = q2.size();
+        while(q1.size()!=n){
+            q1.add(q2.poll());
+        }
+        q1.add(a);
+        return a;
+        
     }
     
     public boolean empty() {
-        if(q1.isEmpty()){
-            return true;
-        }else{
-            return false;
-
-        }
+        return q1.isEmpty();
     }
 }
 
