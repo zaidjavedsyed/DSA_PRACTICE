@@ -55,6 +55,7 @@ DSA repository
 | [0120-triangle](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0217-contains-duplicate) |
@@ -235,6 +236,7 @@ DSA repository
 | [0097-interleaving-string](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/zaidjavedsyed/DSA_PRACTICE/tree/master/0416-partition-equal-subset-sum) |
